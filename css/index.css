@@ -104,7 +104,7 @@ nav ul a:hover{
 }
 .list1 ul li{
 	float: left;
-	border-bottom: 12px solid #000000;
+	border-bottom: 12px solid #fff;
 	box-sizing: border-box;
 }
 .list1 ul .li1 .sixa{
@@ -349,12 +349,12 @@ nav ul a:hover{
 	.list1 ul li{
 		width: 50%;
 		height: 592px;
-		border-left: 12px solid #000000;
-		border-right: 6px solid #000000;
+		border-left: 12px solid #fff;
+		border-right: 6px solid #fff;
 	}
 	.list1 ul li:nth-child(2n){
-		border-left: 6px solid #000000;
-		border-right: 12px solid #000000;
+		border-left: 6px solid #fff;
+		border-right: 12px solid #fff;
 	}
 	.list1 ul .li1{
 		background: url("../img/shop_for_college_large.jpg") no-repeat center;
@@ -484,12 +484,12 @@ nav ul a:hover{
 	.list1 ul li{
 		width: 50%;
 		height: 502px;
-		border-left: 12px solid #000000;
-		border-right: 6px solid #000000;
+		border-left: 12px solid #fff;
+		border-right: 6px solid #fff;
 	}
 	.list1 ul li:nth-child(2n){
-		border-left: 6px solid #000000;
-		border-right: 12px solid #000000;
+		border-left: 6px solid #fff;
+		border-right: 12px solid #fff;
 	}
 	.list1 ul .li1{
 		background: url("../img/shop_for_college_medium.jpg") no-repeat center;
